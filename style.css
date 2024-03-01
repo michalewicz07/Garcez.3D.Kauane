@@ -1,0 +1,46 @@
+h1 {text-align: center;
+}
+h2 {text-align: center;
+}
+h2{text-align: center;
+}
+h3 {text-align: center;
+}
+h1{color: cadetblue;
+}
+h3 {color: cadetblue;
+}
+h1{
+  font-family: "Shantell Sans", cursive;
+  font-optical-sizing: auto;
+  font-weight: <weight>;
+  font-style: normal;
+  font-variation-settings:
+    "BNCE" 0,
+    "INFM" 0,
+    "SPAC" 0;
+}
+h3{
+    font-family: "Amaranth", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+  }
+  h2 {
+    font-family: "Amaranth", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+  }
+h2{
+    font-family: "Shantell Sans", cursive;
+    font-optical-sizing: auto;
+    font-weight: <weight>;
+    font-style: normal;
+    font-variation-settings:
+      "BNCE" 0,
+      "INFM" 0,
+      "SPAC" 0;
+    }
+h1{border-color: darkgrey;
+border-style: solid;
+border-width: 7px;
+}
